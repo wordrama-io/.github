@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/wordrama-io/.github/main/fulltext-blue.png" width="300"/>
+  <a href="https://wordrama.io"><img src="https://raw.githubusercontent.com/wordrama-io/.github/main/fulltext-blue.png" width="300"/></a>
 </div>
 
 <div id="social-badges" align="center">
